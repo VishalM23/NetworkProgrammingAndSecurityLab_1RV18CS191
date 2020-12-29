@@ -1,5 +1,4 @@
 #include<stdio.h>
- 
 #include<conio.h>
  
 #include<stdlib.h>
@@ -7,6 +6,8 @@
 #include<math.h>
  
 #include<string.h>
+
+using namespace std;
  
 long int p,q,n,t,flag,e[100],d[100],temp[100],j,m[100],en[100],i;
  
